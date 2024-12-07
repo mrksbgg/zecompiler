@@ -32,5 +32,4 @@ public class GradleProjectMetaWriter implements ProjectMetaWriter {
   public void initializeDependencies(List<Dependency> dependencies) {
 
   }
-
 }
